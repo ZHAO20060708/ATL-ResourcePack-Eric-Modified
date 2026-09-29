@@ -1,4 +1,5 @@
 import os
+import time
 from pathlib import Path, PurePosixPath
 from tempfile import TemporaryDirectory
 
@@ -153,11 +154,43 @@ def main():
         desired_paths = {upload.remote_path.as_posix() for upload in uploads}
         for remote_name, remote_file in list(existing_files.items()):
             remote_path = PurePosixPath(remote_name.replace("\\", "/"))
-            managed = split_for_remote_path(remote_path, split_configs) is not None
-            legacy = is_legacy_split_source(remote_path, split_configs)
-            if (managed or legacy) and remote_path.as_posix() not in desired_paths:
-                client.delete_file(project_id, remote_file["id"])
-                print(f"已清理 ParaTranz 旧分片：{remote_name}")
+            if remote_path.as_posix() not in desired_paths:
+                try:
+                    client.delete_file(project_id, remote_file["id"])
+                    print(f"已清理 ParaTranz 冗余文件：{remote_name}")
+                except Exception as e:
+                    print(f"清理文件失败 {remote_name}: {e}")
+
+        # 同步导入 CNPack 中的对应中文翻译
+        cnpack_dir = Path("CNPack")
+        print("\n================ 正在同步 CNPack 对应中文译文 ================")
+        refreshed_files = index_remote_files(client.get_files(project_id))
+        imported_count = 0
+        skipped_count = 0
+        for remote_name, remote_file in refreshed_files.items():
+            file_id = remote_file.get("id")
+            if not file_id:
+                continue
+            norm_name = remote_name.replace("\\", "/")
+            if "en_us.json" in norm_name:
+                zh_rel = norm_name.replace("en_us.json", "zh_cn.json")
+            elif "/en_us/" in norm_name:
+                zh_rel = norm_name.replace("/en_us/", "/zh_cn/")
+            else:
+                continue
+
+            zh_file = cnpack_dir / zh_rel
+            if zh_file.exists():
+                try:
+                    client.update_file_translation(project_id, file_id, zh_file, force=True)
+                    print(f"✓ 已对齐译文：{norm_name} <- {zh_file}")
+                    imported_count += 1
+                    time.sleep(0.2)
+                except Exception as e:
+                    print(f"✗ 对齐译文失败 {norm_name}: {e}")
+            else:
+                skipped_count += 1
+        print(f"================ 译文对齐完毕：成功 {imported_count} 个，跳过 {skipped_count} 个 ================\n")
 
 
 if __name__ == "__main__":

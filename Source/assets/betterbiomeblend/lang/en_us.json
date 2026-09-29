@@ -1,14 +1,13 @@
 {
+  "bbb.biomeBlendRadius": "Better Biome Blend",
+  "bbb.biomeBlendRadius.tooltip": "Controls the blend radius used by Better Biome Blend. ",
+  "bbb.sodium.biomeBlend": "Biome Blend",
+  "bbb.sodium.general": "General",
   "options.biomeBlendRadius.17": "17x17 (Big)",
   "options.biomeBlendRadius.19": "19x19 (Very Big)",
   "options.biomeBlendRadius.21": "21x21 (Massive)",
   "options.biomeBlendRadius.23": "23x23 (Dizzying)",
   "options.biomeBlendRadius.25": "25x25 (Criminal)",
   "options.biomeBlendRadius.27": "27x27 (Elevated)",
-  "options.biomeBlendRadius.29": "29x29 (WOAH!)",
-
-  "bbb.biomeBlendRadius" : "Better Biome Blend",
-  "bbb.sodium.biomeBlend" : "Biome Blend",
-  "bbb.sodium.general" : "General",
-  "bbb.biomeBlendRadius.tooltip" : "Controls the blend radius used by Better Biome Blend. "
+  "options.biomeBlendRadius.29": "29x29 (WOAH!)"
 }
