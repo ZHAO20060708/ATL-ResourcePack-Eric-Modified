@@ -1,0 +1,12 @@
+{
+  "name": "肉桂饼",
+  "icon": "croptopia:snicker_doodle",
+  "category": "croptopia:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:snicker_doodle",
+      "text": "肉桂饼的制作配方。"
+    }
+  ]
+}

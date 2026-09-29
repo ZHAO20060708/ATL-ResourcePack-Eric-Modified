@@ -1,0 +1,20 @@
+{
+  "config.jamlib.edit_manually": "手动编辑",
+  "config.jamlib.matches_regex_tooltip": "值需匹配以下正则表达式：%s",
+  "config.jamlib.open": "打开",
+  "config.jamlib.requires_restart_tooltip": "此更改需要重启后才会生效",
+  "config.jamlib.reset": "重置",
+  "config.jamlib.reset_tooltip": "重置为默认值",
+  "config.jamlib.selection_screen_title": "选择 %s 的配置",
+  "config.jamlib.within_range_tooltip": "值应在 %d 到 %d 之间",
+  "text.jamlib.renamed_1": "以下 mod 文件已被重命名——这通常是 mod 被%s的迹象。",
+  "text.jamlib.renamed_1.1": "未经授权转载",
+  "text.jamlib.renamed_2": "%s 之类的网站%s，还可能被用来%s。mod 的官方发布渠道为 %s 和 %s。",
+  "text.jamlib.renamed_2.1": "9minecraft",
+  "text.jamlib.renamed_2.2": "会伤害 mod 作者",
+  "text.jamlib.renamed_2.3": "传播恶意软件",
+  "text.jamlib.renamed_2.4": "CurseForge",
+  "text.jamlib.renamed_2.5": "Modrinth",
+  "text.jamlib.renamed_3": "此消息仅显示一次。%s。",
+  "text.jamlib.renamed_3.1": "如果你认为这是误报，请联系 mod 作者"
+}

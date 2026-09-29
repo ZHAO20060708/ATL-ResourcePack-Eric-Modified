@@ -1,0 +1,7 @@
+{
+  "death.attack.createaddition.barbed_wire": "%1$s尝试越过铁丝网",
+  "death.attack.createaddition.barbed_wire.player": "%1$s在与%2$s战斗时挂在了铁丝网上",
+  "death.attack.createaddition.tesla_coil": "%1$s遭受了致命电击",
+  "death.attack.createaddition.tesla_coil.player": "%1$s在与%2$s战斗时遭受了致命电击",
+  "tag.fluid.c.ignites": "易燃流体"
+}

@@ -1,0 +1,13 @@
+{
+  "bbb.biomeBlendRadius": "更好的生物群系过渡",
+  "bbb.biomeBlendRadius.tooltip": "控制 Better Biome Blend 所使用的生物群系过渡平滑采样半径。",
+  "bbb.sodium.biomeBlend": "生物群系平滑过渡",
+  "bbb.sodium.general": "常规",
+  "options.biomeBlendRadius.17": "17x17（大）",
+  "options.biomeBlendRadius.19": "19x19（极大）",
+  "options.biomeBlendRadius.21": "21x21（海量）",
+  "options.biomeBlendRadius.23": "23x23（眼花缭乱）",
+  "options.biomeBlendRadius.25": "25x25（丧心病狂）",
+  "options.biomeBlendRadius.27": "27x27（极高）",
+  "options.biomeBlendRadius.29": "29x29（哇塞！）"
+}

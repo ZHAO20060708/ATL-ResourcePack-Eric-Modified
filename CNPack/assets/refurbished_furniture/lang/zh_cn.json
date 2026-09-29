@@ -1,0 +1,21 @@
+{
+  "backpack.refurbished_furniture.cabinet": "储物柜",
+  "backpack.refurbished_furniture.cabinet.unlock": "在 MrCrayfish的家具模组 中打开任意储物柜以解锁此背包",
+  "computer_program.refurbished_furniture.paddle_ball.searching_players": "寻找对手中……",
+  "container.refurbished_furniture.lightswitch": "电灯开关",
+  "gui.refurbished_furniture.booting": "启动中……",
+  "gui.refurbished_furniture.default_mailbox_name": "邮箱",
+  "gui.refurbished_furniture.delivery_service.mailbox_queue_full": "所选邮箱的邮件队列已满",
+  "gui.refurbished_furniture.delivery_service.package_sent": "包裹已发送！",
+  "gui.refurbished_furniture.delivery_service.undeliverable_dimension": "所选邮箱位于无法投递的维度",
+  "gui.refurbished_furniture.delivery_service.unknown_mailbox": "未知或无效的邮箱",
+  "gui.refurbished_furniture.enter_message": "输入留言……",
+  "gui.refurbished_furniture.invalid_dimension": "无法在此维度放置邮箱",
+  "gui.refurbished_furniture.invalid_mailbox": "邮箱已禁用，因为其不在允许的维度中",
+  "gui.refurbished_furniture.search": "搜索……",
+  "gui.refurbished_furniture.unknown_mailbox_owner": "未知玩家",
+  "subtitle.refurbished_furniture.cabinet.close": "橱柜门关闭",
+  "subtitle.refurbished_furniture.cabinet.open": "橱柜门打开",
+  "subtitle.refurbished_furniture.microwave.fan": "微波炉嗡嗡声",
+  "subtitle.refurbished_furniture.wrench_hover_link": "悬停连接"
+}

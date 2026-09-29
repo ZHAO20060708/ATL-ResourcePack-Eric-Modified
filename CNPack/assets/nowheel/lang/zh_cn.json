@@ -1,0 +1,12 @@
+{
+  "text.nowheel.category.advanced": "高级设置",
+  "text.nowheel.category.general": "常规",
+  "text.nowheel.distanceCulling": "视距剔除",
+  "text.nowheel.distanceCulling.tooltip": "剔除 Entity Culling 无法追踪的内容。在渲染距离大于等于 8 时可提升性能。",
+  "text.nowheel.forceRemoving": "强制旧版移除后端",
+  "text.nowheel.forceRemoving.tooltip": "仅在性能明显低于旧版 Nowheel 时启用。强制在间接 Flywheel 后端上使用旧版移除后端。",
+  "text.nowheel.overrideEntityCulling": "覆盖 Entity Culling 限制",
+  "text.nowheel.overrideEntityCulling.tooltip": "覆盖 Entity Culling 的配置，以剔除默认情况下不会被剔除的动态结构。在特定场景下可提升性能。需要重启游戏。",
+  "text.nowheel.tickCulling": "Tick 剔除",
+  "text.nowheel.tickCulling.tooltip": "跳过已被剔除的机械动力机器的客户端 tick。可提升性能。如果部分物体动画异常，请禁用此项。"
+}

@@ -1,0 +1,8 @@
+{
+  "fancymenu.actions.show_toast.default_title": "FancyMenu 提示",
+  "fancymenu.buddy.achievement.reward": "+%s 经验",
+  "fancymenu.decoration_overlays.buddy": "虚拟伙伴",
+  "fancymenu.placeholders.pi": "§opi §r(数学)",
+  "fancymenu.schedulers.manage.description.id": "ID: %s",
+  "fancymenu.ui.filechooser.create_folder.default_name": "新建文件夹"
+}

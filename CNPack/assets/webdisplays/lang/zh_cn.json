@@ -1,0 +1,17 @@
+{
+  "webdisplays.gui.minepad.close": "按下 Shift 和 Escape 关闭。",
+  "webdisplays.gui.screencfg.autovol": "自动音量",
+  "webdisplays.gui.screencfg.avwarning": "§c注意！\n自动音量仅对 YouTube 视频生效，\n且需在客户端配置中启用！",
+  "webdisplays.gui.screencfg.syncenabled": "启用同步",
+  "webdisplays.gui.screencfg.syncenabled.tooltip": "为所有观看者启用视频播放同步。",
+  "webdisplays.gui.screencfg.syncmaster": "主机：%s",
+  "webdisplays.gui.screencfg.syncmaster.none": "主机：无",
+  "webdisplays.gui.screencfg.syncnow": "立即同步",
+  "webdisplays.gui.screencfg.syncnow.tooltip": "强制将所有观看者同步至你当前的播放进度。",
+  "webdisplays.gui.screencfg.videosync": "视频同步：",
+  "webdisplays.key.toggle_mouse": "切换激光鼠标 (WebDisplays)",
+  "webdisplays.message.welcome1": "感谢安装 WebDisplays！如果你",
+  "webdisplays.message.welcome2": "需要帮助，请将鼠标悬停在任意 WD 物品上",
+  "webdisplays.message.welcome3": "并按 F1。祝玩得开心！—— montoyo",
+  "webdisplays.server.press_for_more": "<按下方向键查看更多>"
+}

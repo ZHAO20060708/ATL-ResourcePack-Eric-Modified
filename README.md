@@ -1,20 +1,31 @@
 <div align="center">
-   <h1>某某项目简体中文翻译</h1>
+   <h1>All The Leisures · 简体中文汉化与地道化修复资源包</h1>
+   <p>适用版本：Minecraft Java 1.21.1 / NeoForge (v1.0.6a+)</p>
 </div>
 
-| CurseForge     | 加载器     | 整合包版本         | 汉化维护状态 |
-| :------------- | :--------- | :----------------- | :----------- |
-| [链接](原链接) | 模组加载器 | MC 版本 整合包版本 | 翻译中       |
+| CurseForge | 加载器 | 整合包版本 | 资源包格式 | 维护者 |
+| :--- | :--- | :--- | :--- | :--- |
+| [All The Leisures](https://www.curseforge.com/minecraft/modpacks/all-the-leisures) | NeoForge 21.1+ | 1.0.6a | 34 (1.21.1) | Eric (ZHAO20060708) |
 
-### 📌 汉化相关
+### 📌 汉化与协作相关
 
-- **汉化项目**：[Paratranz](https://paratranz.cn/projects/项目)
-- **汉化发布**：[VM 汉化组官网](https://vmct-cn.top/modpacks/项目)
-- **译者名单**：[贡献者排行榜](https://paratranz.cn/projects/项目/leaderboard)
+- **汉化维护**：Eric Modified 修订版（基于原包、CFPA 及地道化全量审校）
+- **翻译平台**：[ParaTranz 项目](https://paratranz.cn/)
+- **当前版本**：v0.0.2
 
-# 📖 整合包介绍
+# 📖 资源包介绍与特性
 
-（在这里填写整合包介绍内容……）
+本资源包专为 **All The Leisures v1.0.6a** 整合包定制，解决整合包生肉多、机翻严重、术语割裂等问题：
+- **地道化润色与规范**：全面清洗生硬直译与繁体机翻（末地乐事、暮色森林、葡园酒香深色樱桃木体系、机械动力硬币商店与深海潜航等）。
+- **统一命名规范**：对齐 Macaw 体系、农夫乐事附属蔬果箱袋、豆腐工艺、锻造模板提示语序。
+- **全量汉化注入**：补全 142 个命名空间、2858+ 候选词条，修复退回英文和格式化参数错误。
+- **Patchouli 帕秋莉手册翻译**：补全《可爱的仓鼠宠物》、Croptopia 作物盛景手册等图文向导。
+
+### 🎮 启用方法
+1. 前往本仓库的 **[Releases](https://github.com/ZHAO20060708/ATL-ResourcePack-Eric-Modified/releases)** 页面下载最新 `ResourcePacksJustForATL-Modified-*.zip`。
+2. 放入客户端的 `resourcepacks` 文件夹中。
+3. 进入游戏“选项 → 资源包”，启用本资源包，并确保将其**移动到资源包列表的最上方**（保证最高优先级覆盖）。
+4. 语言选择“简体中文（中国）”即可。
 
 <!-- 以下部分在正式项目中需删除 一切教程以模板仓库为准 -->
 

@@ -1,0 +1,8 @@
+{
+  "iris.keybind.wireframe": "切换线框显示模式",
+  "iris.load.failure.generic": "光影渲染器发生异常错误",
+  "iris.load.failure.shader": "光影包加载失败！请向光影包开发者报告此错误。",
+  "iris.shaders.debug.restartNoDebug": "重启着色器（无调试模式）",
+  "options.iris.colorSpace": "光影色彩空间",
+  "options.iris.colorSpace.sodium_tooltip": "将屏幕画面转换到指定色彩空间。此设置会在光影包效果之后生效。不确定时请使用 SRGB。"
+}

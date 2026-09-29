@@ -1,0 +1,12 @@
+{
+  "probejs.already_running": "当前已有一个导出线程在运行，请稍候。",
+  "probejs.complete": "ProbeJS 现在将导出所有复杂类型，但这可能会牺牲 VSCode 的性能。",
+  "probejs.decompile": "ProbeJS 将在下次导出时反编译模组源码，模组列表变更时也会触发反编译。",
+  "probejs.generate_beans": "ProbeJS 现在将为 getXX、isXX 和 setXX 方法生成 Bean 属性。",
+  "probejs.interactive": "ProbeJS 交互式服务器正在监听端口 %s。",
+  "probejs.modified_give_command": "[ProbeJS] 这不是原版行为，请仅在开发环境中使用！",
+  "probejs.no_complete": "ProbeJS 现在将在导出中禁用部分类型，以提升 VSCode 的运行速度。缺少的类型可使用代码片段补全。",
+  "probejs.no_decompile": "ProbeJS 现在不会反编译模组源码。",
+  "probejs.no_generate_beans": "ProbeJS 现在不会生成 Bean 属性。",
+  "probejs.performance": "你安装了 %s 个模组！为了保证性能，部分功能已被禁用，但影响可能不大。如果你想要完整（但较慢）的导出，可通过 /probejs config complete_dump 切换！"
+}

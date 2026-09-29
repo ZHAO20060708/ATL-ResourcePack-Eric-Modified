@@ -1,0 +1,9 @@
+{
+  "jei.config.client.appearance.toastReflowEnabled": "弹出提示重排",
+  "jei.config.client.appearance.toastReflowEnabled.description": "为弹出提示预留空间，避免其遮挡 JEI 界面。",
+  "jei.message.server.recipe.sync.error": "此服务器向 JEI 发送了配方，但没有一个可用。JEI 无法显示此服务器的配方。请检查服务器的 JEI 配置、数据包和配方类模组。",
+  "jei.message.server.recipe.sync.jei.missing": "此 %s 服务器未安装 JEI。JEI 正显示来自客户端的默认配方，这可能与服务器上的配方有所不同。请在服务器上安装 JEI 以正确显示服务器配方。",
+  "jei.message.server.recipe.sync.unavailable": "此 %s 服务器未向 JEI 提供配方。JEI 正显示来自客户端的默认配方，这可能与服务器上的配方有所不同。",
+  "jei.message.server.recipe.sync.vanilla": "这是一个原版服务器。JEI 正显示来自客户端的默认配方，若服务器使用了数据包，实际配方可能会有所不同。请在服务器上安装 Forge、NeoForge 或 Fabric 以及 JEI，以正确显示服务器配方。",
+  "key.jei.quickMove": "快速移动虚影物品"
+}

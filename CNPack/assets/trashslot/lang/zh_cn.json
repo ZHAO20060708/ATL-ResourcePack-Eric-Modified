@@ -1,0 +1,15 @@
+{
+  "key.trashslot.delete_all": "销毁同类型全部物品",
+  "key.trashslot.toggle_lock": "锁定/解锁 垃圾回收槽",
+  "tooltip.trashslot.destroy_item": "销毁物品",
+  "tooltip.trashslot.trash_item": "将物品放入垃圾槽",
+  "trashslot.configuration.allowDeletionWhileTrashSlotIsInvisible": "垃圾槽隐藏时允许删除",
+  "trashslot.configuration.allowDeletionWhileTrashSlotIsInvisible.tooltip": "允许在垃圾槽隐藏时使用快捷键删除物品，不推荐启用。",
+  "trashslot.configuration.deletionDenyList": "禁止删除列表",
+  "trashslot.configuration.deletionDenyList.tooltip": "不可删除的物品列表，使用 modid:name 格式，以逗号分隔。",
+  "trashslot.configuration.enableDeleteKeysInCreative": "创造模式下启用删除快捷键",
+  "trashslot.configuration.enableDeleteKeysInCreative.tooltip": "设为 true 时，快捷销毁按键在创造模式物品栏中同样生效。注意：创造模式下销毁为永久彻底删除！",
+  "trashslot.configuration.enableHints": "启用提示",
+  "trashslot.configuration.enableHints.tooltip": "首次关闭垃圾槽，或在支持的界面中可以启用垃圾槽时，TrashSlot 会显示提示。设为 false 可禁用。",
+  "trashslot.configuration.instantDeletion.tooltip": "开启后，放入垃圾槽的物品将立即彻底销毁，类似于创造模式。"
+}

@@ -1,0 +1,14 @@
+{
+  "block.pylons.protection_pylon": "保护水晶柱",
+  "gui.pylons.fluxData": "已储存 %d/%d RF",
+  "gui.pylons.protectedMobsAndBlocks": "添加要保护的生物或方块：",
+  "item.pylons.block_filter": "方块过滤器",
+  "pylons.int.jei.category.harvester_pylon": "收获塔周围 3×3 至 9×9 方块范围内的作物，并将产物输出到上方的容器。\n请将塔放入农田的水方块中，或与作物处于同一高度。\n\n默认情况下（可配置），塔内需要放置一把锄，每次收获消耗 1 点耐久度；\n不可破坏的锄除外。支持耐久附魔及其他影响耐久度的附魔。\n\n也可以配置为消耗能量而非耐久度。\n\n可用红石自动控制开关。\n",
+  "pylons.int.jei.category.protection_pylon": "防止塔的主人在选定的区块范围（1×1 至 5×5 区块）内破坏方块或杀死生物。\n添加生物过滤器和方块过滤器以指定要保护的生物和方块。\n\n可用红石自动控制开关。\n",
+  "tooltip.pylons.effect_banned": "此效果已通过标签禁用。",
+  "tooltip.pylons.no_block": "右击方块以选中它。",
+  "tooltip.pylons.protection": "保护范围内的方块不受破坏",
+  "tooltip.pylons.protection1": "根据配置的过滤器，",
+  "tooltip.pylons.protection2": "防止你误拆方块",
+  "tooltip.pylons.protection3": "或误杀生物。"
+}

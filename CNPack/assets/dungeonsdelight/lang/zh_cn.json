@@ -1,0 +1,21 @@
+{
+  "block.dungeonsdelight.spirit_fire": "灵火",
+  "container.farmersdelight.monster_pot": "怪物烹饪锅",
+  "container.farmersdelight.monster_pot.heated": "受热",
+  "container.farmersdelight.monster_pot.not_heated": "下方需要活性热源",
+  "death.attack.dungeonsdelight.living_essence": "%1$s 的生命精华被吸干了",
+  "death.attack.dungeonsdelight.living_essence.player": "%2$s 吸干了 %1$s 的生命精华",
+  "dungeonsdelight.advancement.create_spirit_fire": "也许在来生",
+  "dungeonsdelight.advancement.create_spirit_fire.desc": "使用腐质打火石在灵魂方块上点燃灵火",
+  "dungeonsdelight.living_essence": "%1$s 的生命精华被吸干了",
+  "farmersdelight.tooltip.necronog": "使一个随机效果的持续时间翻倍，但将其等级降低 1 级",
+  "item.dungeonsdelight.necronog": "死灵蛋酒",
+  "item.dungeonsdelight.rot_and_steel": "腐质打火石",
+  "item.dungeonsdelight.takoyaki": "章鱼烧",
+  "jei.farmersdelight.jei.monster_cooking": "怪物烹饪",
+  "subtitles.effect.monsterize.activate": "状态效果被吞噬",
+  "subtitles.item.rot_and_steel.use": "腐质打火石：喀哒",
+  "subtitles.random.acidic_hiss": "酸性效果蒸发",
+  "tooltip.farmersdelight.ossobuco": "补满一个随机怪物效果的持续时间",
+  "yapping_tooltips.item.dungeonsdelight.necronog.desc": "仿制某种通常在寒冷冬夜享用的美味饮品"
+}

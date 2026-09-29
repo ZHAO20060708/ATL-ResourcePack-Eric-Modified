@@ -1,0 +1,23 @@
+{
+  "create.gui.stock_keeper.click_to_cycle": "点击循环切换",
+  "create.gui.stock_keeper.jei_sync.none": "无同步",
+  "create.gui.stock_keeper.jei_sync.none.description": "库管员与配方查询器的搜索相互独立",
+  "create.gui.stock_keeper.jei_sync.sync_both": "双向同步配方查询器",
+  "create.gui.stock_keeper.jei_sync.sync_both.description": "库管员与配方查询器的搜索将保持双向实时同步",
+  "create.gui.stock_keeper.jei_sync.sync_from_jei": "从配方查询器同步",
+  "create.gui.stock_keeper.jei_sync.sync_from_jei.description": "配方查询器中的搜索内容将镜像至库管员",
+  "create.gui.stock_keeper.jei_sync.sync_from_stock_keeper": "从库管员同步",
+  "create.gui.stock_keeper.jei_sync.sync_from_stock_keeper.description": "库管员中的搜索内容将镜像至配方查询器",
+  "create.keyinfo.alt_modifier": "Alt 辅助键",
+  "create.keyinfo.ctrl_modifier": "Ctrl 辅助键",
+  "create.keyinfo.shift_modifier": "Shift 辅助键",
+  "create.schematic.tool.flip.description.2": "沿指定轴向镜像翻转蓝图结构",
+  "create.schematic.tool.flip.description.3": "再次点击即可还原",
+  "create.schematic.tool.move.description.2": "沿水平平面平移调整蓝图位置",
+  "create.schematic.tool.move.description.3": "按住潜行键进行微调",
+  "create.schematic.tool.move_y.description.2": "垂直升降调整蓝图高度",
+  "create.schematic.tool.move_y.description.3": "按住潜行键进行微调",
+  "create.schematic.tool.print.description.3": "放置并完成蓝图打印",
+  "create.schematic.tool.rotate.description.2": "顺时针旋转蓝图方向",
+  "create.schematic.tool.rotate.description.3": "按住潜行键可逆时针旋转"
+}

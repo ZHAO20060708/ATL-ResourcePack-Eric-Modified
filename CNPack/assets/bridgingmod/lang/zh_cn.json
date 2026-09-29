@@ -1,0 +1,8 @@
+{
+  "config.bridgingmod.option.minBridgeDistance": "最小搭桥距离",
+  "config.bridgingmod.option.minBridgeDistance.description.0": "方块距离你多远时才允许开始搭桥。",
+  "config.bridgingmod.option.minBridgeDistanceHorizontal": "最小水平距离",
+  "config.bridgingmod.option.minBridgeDistanceHorizontal.description.0": "方块在水平方向上距离你多远时才允许开始搭桥。",
+  "config.bridgingmod.option.minBridgeDistanceVertical": "最小垂直距离",
+  "config.bridgingmod.option.minBridgeDistanceVertical.description.0": "方块在垂直方向上距离你多远时才允许开始搭桥。"
+}

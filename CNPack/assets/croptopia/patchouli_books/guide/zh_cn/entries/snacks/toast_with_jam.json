@@ -1,0 +1,12 @@
+{
+  "name": "蘸酱吐司",
+  "icon": "croptopia:toast_with_jam",
+  "category": "croptopia:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:toast_with_jam",
+      "text": "蘸酱吐司的制作配方。"
+    }
+  ]
+}

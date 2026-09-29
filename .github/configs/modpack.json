@@ -1,11 +1,11 @@
 {
-  "configured": false,
-  "packId": 130,
-  "packName": "FTB StoneBlock 4",
-  "versionPattern": "FTB StoneBlock 4 {version}",
-  "mcVersion": "1.20.1", 
-  "loader": "forge",
-  "updateMethod": "cursethebeast",
+  "configured": true,
+  "packId": 1133311,
+  "packName": "All The Leisures",
+  "versionPattern": "All The Leisures {version}",
+  "mcVersion": "1.21.1",
+  "loader": "neoforge",
+  "updateMethod": "api",
   "infoFilePath": "CNPack/modpackinfo.json",
   "sourceDir": "Source",
   "paratranz": {
@@ -13,22 +13,16 @@
     "pathRedirects": []
   },
   "attentionList": {
-    "folders": [
-      {
-        "path": "config/ftbquests/quests",
-        "ignoreDeletions": false
-      }
-    ],
+    "folders": [],
     "filePatterns": [
       {
-        "pattern": "kubejs/assets/*/lang/en_us.json",
+        "pattern": "assets/*/lang/en_us.json",
         "ignoreDeletions": true
       }
     ]
   },
   "exclusionPatterns": [
     "**/lang/*.*",
-    "**/dimdungeons/lang/*.*",
     "!**/lang/en_us.*"
   ]
 }

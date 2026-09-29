@@ -1,0 +1,16 @@
+{
+  "kerria.bufferSize": "缓冲区大小",
+  "kerria.bufferSize.tooltip": "设置持久映射缓冲区的大小，单位为 KB。",
+  "kerria.cache": "动态纹理缓存",
+  "kerria.cache.tooltip": "缓存已上传的纹理，避免 CPU 向 GPU 重复上传，并直接在 GPU 显存内传输子纹理。\n\n需要支持 OpenGL 4.5，或同时支持 ARB_direct_state_access、ARB_copy_image 和 ARB_texture_storage。",
+  "kerria.enabled": "已启用",
+  "kerria.enabled.tooltip": "开启或关闭 Kerria 纹理上传优化。",
+  "kerria.fastLightTextureUpload": "快速光照贴图上传",
+  "kerria.fastLightTextureUpload.tooltip": "优化每帧动态光照贴图更新的上传开销。",
+  "kerria.fastUpload": "快速纹理上传",
+  "kerria.fastUpload.tooltip": "利用持久映射缓冲区和像素缓冲区对象优化 CPU -> GPU 纹理上传过程。\n\n需要 OpenGL 4.5 或 ARB_direct_state_access 支持。",
+  "kerria.maxCacheSize": "最大缓存大小",
+  "kerria.maxCacheSize.tooltip": "设置动态纹理缓存的最大大小。",
+  "kerria.minCacheSize": "最小缓存大小",
+  "kerria.minCacheSize.tooltip": "设置动态纹理缓存的初始大小。"
+}

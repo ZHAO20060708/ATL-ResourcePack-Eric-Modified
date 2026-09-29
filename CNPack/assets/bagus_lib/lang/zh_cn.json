@@ -1,0 +1,12 @@
+{
+  "entity.bagus_lib.mini_bagu": "迷你巴古",
+  "bagus_lib.config.aprilFeature": "启用愚人节特性",
+  "bagus_lib.config.betterEndPoem": "更好的终末之诗",
+  "bagus_lib.config.playableFirstPerson": "可玩第一人称视角",
+  "bagus_lib.config.shakeCameraForVanilla": "启用原版镜头晃动",
+  "bagus_lib.watermelon": "西瓜",
+  "command.bagus_lib.dialog": "成功添加对话",
+  "command.bagus_lib.image_dialog": "成功添加图片对话",
+  "command.bagus_lib.item_dialog": "成功添加物品对话",
+  "command.bagus_lib.remove_all_dialog": "成功移除所有对话"
+}

@@ -1,0 +1,7 @@
+{
+  "balm.configuration.exampleCategory": "示例分类",
+  "config.jade.plugin_balm.jade": "Balm",
+  "disconnect.balm.mod_missing_on_client": "你尚未安装 %s。请安装 %s 的 %s 版本以加入此服务器。",
+  "disconnect.balm.mod_missing_on_server": "服务器未安装 %s。请从客户端移除该模组，或在服务器上安装它。",
+  "disconnect.balm.mod_version_mismatch": "%s 版本不匹配。服务器要求版本 %s，但你当前安装的是 %s。请安装正确版本。"
+}

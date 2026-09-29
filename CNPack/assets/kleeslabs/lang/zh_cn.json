@@ -1,0 +1,8 @@
+{
+  "kleeslabs.configuration.disabledCompat": "禁用的兼容项",
+  "kleeslabs.configuration.disabledCompat.tooltip": "需要禁用半砖兼容的模组 ID 列表。",
+  "kleeslabs.configuration.dumpSlabs": "调试转储半砖列表",
+  "kleeslabs.configuration.dumpSlabs.tooltip": "开发者调试选项。设为 true 会在世界加载时将所有名称中包含 'slab' 的物品转储输出。",
+  "kleeslabs.configuration.mode": "触发模式",
+  "kleeslabs.configuration.mode.tooltip": "控制 KleeSlabs 独立破坏半砖的触发条件：ALWAYS（总是生效）、ONLY_WHEN_SNEAKING（仅潜行时生效）或 ONLY_WHEN_NOT_SNEAKING（仅非潜行时生效）"
+}

@@ -1,0 +1,23 @@
+{
+  "adlods.configuration.Features": "Features",
+  "adlods.configuration.disableVanillaLargeVeins": "disableVanillaLargeVeins",
+  "adlods.configuration.Veins": "Veins",
+  "adlods.configuration.enabled": "enabled",
+  "adlods.configuration.disabledDeposits": "disabledDeposits",
+  "adlods.configuration.alwaysOnCeiling": "alwaysOnCeiling",
+  "adlods.configuration.disabledVeins": "disabledVeins",
+  "adlods.configuration.globalSizeMultiplier": "globalSizeMultiplier",
+  "adlods.configuration.Indicators": "Indicators",
+  "adlods.configuration.globalSpawnRateMultiplier": "globalSpawnRateMultiplier",
+  "adlods.configuration.disabledFeatures": "disabledFeatures",
+  "adlods.configuration.Deposits": "Deposits",
+  "adlods.configuration.Stripper": "Stripper",
+  "adlods.configuration.dressUnloadedChunks": "dressUnloadedChunks",
+  "adlods.configuration.includeNonOreVeins": "includeNonOreVeins",
+  "adlods.configuration.Vanilla": "Vanilla",
+  "adlods.configuration.fixOceanFloorHeightmap": "fixOceanFloorHeightmap",
+  "adlods.configuration.useOrePebbles": "useOrePebbles",
+  "adlods.configuration.useStonePebbles": "useStonePebbles",
+  "adlods.configuration.useModdedFlowers": "useModdedFlowers",
+  "adlods.configuration.useVanillaFlowers": "useVanillaFlowers"
+}

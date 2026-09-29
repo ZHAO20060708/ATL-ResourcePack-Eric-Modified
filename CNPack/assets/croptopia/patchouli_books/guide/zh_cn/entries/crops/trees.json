@@ -1,0 +1,11 @@
+{
+  "name": "果树",
+  "icon": "croptopia:apple_sapling",
+  "category": "croptopia:crops",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "在世界探索时，你能发现树上生长着特色作物的果树。果实完全成熟后，直接右键即可采摘收获。"
+    }
+  ]
+}

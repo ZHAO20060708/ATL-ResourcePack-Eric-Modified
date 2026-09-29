@@ -1,0 +1,11 @@
+{
+  "name": "农作物",
+  "icon": "croptopia:eggplant_seed",
+  "category": "croptopia:crops",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "各类农作物会自然生成在世界各地的特定生物群系中。从 2.0.0 版本开始，作物的生成已由数据包按生物群系名称决定，而非生物群系大类。如果你希望在模组群系中添加特定作物，可在 GitHub 仓库提交 issue 反馈。"
+    }
+  ]
+}

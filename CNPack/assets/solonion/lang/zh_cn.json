@@ -1,0 +1,11 @@
+{
+  "config.solonion.add_multiplied_base": "乘法基础值",
+  "config.solonion.add_multiplied_total": "乘法总值",
+  "config.solonion.add_value": "加法",
+  "config.solonion.att": "自身属性",
+  "config.solonion.eff": "状态效果",
+  "config.solonion.trackedFoodDiversityDecay.comment": "食用其他食物时，某项食物贡献的多样性会随之衰减。若禁用此项，则在该食物被移出追踪列表前，其多样性不会下降。",
+  "gui.solonion.food_book.active_detriments_header": "已激活减益",
+  "gui.solonion.food_book.inactive_detriments_header": "未激活减益",
+  "gui.solonion.inventory.tooltip": "生活调味料：洋葱版统计\n食物多样性：%s"
+}

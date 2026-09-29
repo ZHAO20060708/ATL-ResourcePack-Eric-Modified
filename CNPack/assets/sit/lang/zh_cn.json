@@ -1,0 +1,4 @@
+{
+  "sit.configuration.block_reach_distance": "方块触及距离",
+  "sit.configuration.block_reach_distance.tooltip": "玩家与方块之间仍能坐下的最大方块距离。请注意，该距离受原版 Minecraft 中玩家触及方块的最大距离限制。若设为 0，玩家必须站在方块正上方才能坐下。"
+}

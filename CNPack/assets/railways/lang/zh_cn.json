@@ -1,0 +1,7 @@
+{
+  "block.railways.track_phantom_narrow": "窄轨幻影列车轨道",
+  "block.railways.track_phantom_wide": "宽轨幻影列车轨道",
+  "item.railways.track_incomplete_phantom_narrow": "未完成的窄轨幻影轨道",
+  "item.railways.track_incomplete_phantom_wide": "未完成的宽轨幻影轨道",
+  "railways.station.icon_type": "列车图标"
+}

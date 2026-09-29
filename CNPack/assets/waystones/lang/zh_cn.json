@@ -1,0 +1,7 @@
+{
+  "block.waystones.mud_bricks_waystone": "泥砖指路石",
+  "block.waystones.prismarine_waystone": "海晶石指路石",
+  "block.waystones.purpur_waystone": "紫珀指路石",
+  "block.waystones.red_nether_bricks_waystone": "红色下界砖指路石",
+  "chat.waystones.destination_out_of_bounds": "目的地位于世界边界之外。"
+}

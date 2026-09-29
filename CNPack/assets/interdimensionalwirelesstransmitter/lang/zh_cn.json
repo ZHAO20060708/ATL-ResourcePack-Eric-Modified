@@ -1,0 +1,12 @@
+{
+  "advancements.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter": "跨维度>>强权<<",
+  "advancements.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.description": "使用跨维度无线发射器在任意维度间以无限范围发射网络信号",
+  "block.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter": "跨维度无线发射器",
+  "gui.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.distance": "无限",
+  "item.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.help": "为无线合成网格等物品提供无线网络访问能力。拥有无限范围并支持跨维度传输。",
+  "mod.interdimensional_wireless_transmitter": "跨维度无线发射器",
+  "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter": "跨维度无线发射器",
+  "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter.energyUsage": "能量消耗",
+  "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter.energyUsage.tooltip": "跨维度无线发射器的能量消耗数值。",
+  "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter.tooltip": "跨维度无线发射器的配置项。"
+}

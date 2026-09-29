@@ -1,0 +1,23 @@
+{
+  "ali.error.detail_not_available": "详情不可用",
+  "ali.error.modified_item": "已动态修改！",
+  "ali.property.branch.affects_movement": "影响移动：",
+  "ali.property.branch.condition": "谓词：",
+  "ali.property.branch.enchantment": "魔咒：",
+  "ali.property.branch.firework": "烟花：",
+  "ali.property.branch.hidden_effect": "隐藏效果：",
+  "ali.property.branch.possible_effect": "可能的效果：",
+  "ali.property.value.equipment_slot": "装备槽位：%s",
+  "ali.property.value.exclude": "排除：%s",
+  "ali.property.value.game_type": "游戏模式：%s",
+  "ali.property.value.include": "包含：%s",
+  "ali.property.value.line": "行：%s",
+  "ali.property.value.recipe": "配方：%s",
+  "ali.property.value.tooltip": "提示信息：%s",
+  "ali.property.value.treasure": "宝藏：%s",
+  "emi.category.ali.cat_morning_gift": "猫咪早安礼",
+  "emi.category.ali.panda_sneeze": "熊猫打喷嚏",
+  "emi.category.ali.piglin_bartering": "猪灵以物易物",
+  "emi.category.ali.shearing": "剪毛",
+  "emi.category.ali.sniffer_digging": "嗅探兽挖掘"
+}

@@ -1,0 +1,15 @@
+{
+  "sounds.config.iceStress.option": "冰面碎裂声",
+  "sounds.config.iceStress.option.description": "走在薄冰层上时播放挤压开裂音效",
+  "sounds.config.mod": "模组专属选项",
+  "sounds.config.option.description.enableVerboseSoundTypeLogging": "是否在控制台记录方块声音类型的详细信息？可用于调试。",
+  "sounds.config.option.description.hideSoundsButtonInSoundMenu": "是否在原版声音设置界面中隐藏用于打开本模组配置界面的“Sounds”按钮？",
+  "sounds.config.option.description.ignoredBlocks": "此列表中的方块不会应用任何自定义声音设置，即使它们所属的标签配置了声音设置。",
+  "sounds.config.option.enableVerboseSoundTypeLogging": "启用声音类型详细日志",
+  "sounds.config.option.hideSoundsButtonInSoundMenu": "隐藏声音设置界面中的按钮",
+  "sounds.config.option.ignoredBlocks": "忽略方块列表",
+  "sounds.config.swordSwoosh.option": "挥剑破空声",
+  "sounds.config.swordSwoosh.option.description": "挥舞剑类武器时播放破空音效",
+  "sounds.subtitle.sword_swoosh": "剑：挥动",
+  "sounds.config.static": "声音"
+}

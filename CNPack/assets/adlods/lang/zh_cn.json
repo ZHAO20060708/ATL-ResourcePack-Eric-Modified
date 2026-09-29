@@ -1,0 +1,23 @@
+{
+  "adlods.configuration.Deposits": "矿床配置",
+  "adlods.configuration.Features": "特性配置",
+  "adlods.configuration.Indicators": "地表指示物",
+  "adlods.configuration.Stripper": "地层剥离器",
+  "adlods.configuration.Vanilla": "原版修复",
+  "adlods.configuration.Veins": "矿脉配置",
+  "adlods.configuration.alwaysOnCeiling": "总是位于洞顶",
+  "adlods.configuration.disableVanillaLargeVeins": "禁用原版大型矿脉",
+  "adlods.configuration.disabledDeposits": "禁用的矿床",
+  "adlods.configuration.disabledFeatures": "禁用的特性",
+  "adlods.configuration.disabledVeins": "禁用的矿脉",
+  "adlods.configuration.dressUnloadedChunks": "卸载区块前复原",
+  "adlods.configuration.enabled": "启用",
+  "adlods.configuration.fixOceanFloorHeightmap": "修复海床高度图",
+  "adlods.configuration.globalSizeMultiplier": "全局大小倍率",
+  "adlods.configuration.globalSpawnRateMultiplier": "全局生成率倍率",
+  "adlods.configuration.includeNonOreVeins": "包含非矿石矿脉",
+  "adlods.configuration.useModdedFlowers": "使用模组花朵指示物",
+  "adlods.configuration.useOrePebbles": "使用矿石碎石指示物",
+  "adlods.configuration.useStonePebbles": "使用普通碎石指示物",
+  "adlods.configuration.useVanillaFlowers": "使用原版花朵指示物"
+}

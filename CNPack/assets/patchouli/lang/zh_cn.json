@@ -1,0 +1,3 @@
+{
+  "patchouli.networking.reload_contents.failed": "手册内容重新加载失败：%s"
+}

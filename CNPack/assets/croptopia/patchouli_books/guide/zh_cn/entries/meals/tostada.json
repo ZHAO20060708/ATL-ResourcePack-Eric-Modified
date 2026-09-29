@@ -1,0 +1,12 @@
+{
+  "name": "托斯它达玉米饼",
+  "icon": "croptopia:tostada",
+  "category": "croptopia:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:tostada",
+      "text": "托斯它达玉米饼的制作配方。"
+    }
+  ]
+}

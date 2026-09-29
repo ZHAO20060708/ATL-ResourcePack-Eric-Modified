@@ -1,12 +1,12 @@
 {
   "modpack": {
-    "name": "整合包名字",
-    "version": "汉化适配的整合包版本",
+    "name": "All The Leisures",
+    "version": "1.0.6a",
     "translation": {
-      "id": "meta用的id",
-      "url": "https://vmct-cn.top/modpacks/官网页面/",
+      "id": "atl-modified",
+      "url": "https://github.com/ZHAO20060708/ATL-ResourcePack-Eric-Modified",
       "language": "zh_cn",
-      "version": "汉化版本1.0.0"
+      "version": "0.0.2"
     }
   }
 }

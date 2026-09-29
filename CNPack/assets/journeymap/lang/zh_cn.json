@@ -1,0 +1,12 @@
+{
+  "jm.waypoint.settings.override": "覆盖",
+  "jm.waypoint.settings.override.tooltip": "强制将该组此行的设置值应用到组内的所有路标。",
+  "jm.waypoint.settings.row_icon_color": "图标颜色",
+  "jm.common.share.chat.prefix": "聊天：",
+  "jm.common.share.chat.system": "系统",
+  "jm.hud.effects.hide": "隐藏状态效果图标",
+  "jm.hud.effects.hide.tooltip": "隐藏状态效果图标。",
+  "jm.waypoint.edit_group.overrides": "覆盖项",
+  "jm.waypoint.group.edit.id": "ID: %s",
+  "jm.waypoint.slot.mod_id": "模组 ID: %s"
+}

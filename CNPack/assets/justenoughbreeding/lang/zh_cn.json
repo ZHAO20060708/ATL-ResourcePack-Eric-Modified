@@ -1,0 +1,13 @@
+{
+  "emi.category.justenoughbreeding.temper": "脾气",
+  "emi.category.justenoughbreeding.transformation": "转变",
+  "modmenu.descriptionTranslation.justenoughbreeding": "显示生物繁殖信息的 JEI/REI/EMI 插件",
+  "option.justenoughbreeding.decrease_scale": "缩小比例",
+  "option.justenoughbreeding.increase_scale": "放大比例",
+  "option.justenoughbreeding.move_down": "下移",
+  "option.justenoughbreeding.move_left": "左移",
+  "option.justenoughbreeding.move_right": "右移",
+  "option.justenoughbreeding.move_up": "上移",
+  "translation.justenoughbreeding.temper": "脾气",
+  "translation.justenoughbreeding.transformation": "转变"
+}

@@ -1,0 +1,10 @@
+{
+  "tooltip.whitenoise.block_tags": "方块标签",
+  "tooltip.whitenoise.ctrl": "按住 %s 显示组件数据",
+  "tooltip.whitenoise.durability": "耐久度：%s",
+  "tooltip.whitenoise.item_tags": "物品标签",
+  "tooltip.whitenoise.nbt_length": "NBT 长度：%s",
+  "tooltip.whitenoise.shift": "按住 %s 显示标签",
+  "whitenoise.configuration.uitext.allowedtooltip": "允许的值：%s",
+  "whitenoise.networking.failed": "WhiteNoise 网络同步失败：%s"
+}

@@ -1,10 +1,11 @@
 {
   "formatVersion": 1,
-  "name": "整合包名字简中汉化",
-  "description": "xxx整合包简体中文汉化，记得额外下载i18n模组",
-  "modpackVersionRange": "[汉化适配的整合包版本,)",
+  "name": "All The Leisures 简中汉化资源包 (Eric Modified)",
+  "description": "All The Leisures 1.0.6a 整合包简体中文汉化与地道化修复资源包",
+  "modpackVersionRange": "[1.0.6a,)",
   "authors": [
-    "VM汉化组"
+    "Eric (ZHAO20060708)",
+    "CFPAOrg"
   ],
-  "url": "https://vmct-cn.top/modpacks/官网页面/"
+  "url": "https://github.com/ZHAO20060708/ATL-ResourcePack-Eric-Modified"
 }

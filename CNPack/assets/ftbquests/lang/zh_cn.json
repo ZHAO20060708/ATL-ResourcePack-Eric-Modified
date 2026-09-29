@@ -1,0 +1,7 @@
+{
+  "ftbquests.gui.xp_rewards_claimed": "已领取经验奖励",
+  "ftbquests.reward.claim_xp": "领取经验",
+  "ftbquests.task.ftbquests.kill.nbt_filter": "NBT 过滤器",
+  "ftbquests.task.ftbquests.kill.nbt_filter.tooltip": "若非空，则模糊匹配实体的 NBT\n此处请使用标准 Minecraft SNBT 语法\n例如：{Color: 4b} 可匹配被染成黄色的羊",
+  "ftbquests.task.ftbquests.observation.to_observe.tooltip": "待观察的方块、方块实体或实体的 ID，或是方块/实体标签\n对于方块实体和实体，可选择附加 NBT 进行模糊匹配，例如：\nminecraft:sheep{Color: 4b} - 一只黄色的羊\n重要提示：待匹配的 NBT 必须由服务端实体同步至客户端！"
+}

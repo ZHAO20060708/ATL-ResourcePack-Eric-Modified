@@ -1,0 +1,10 @@
+{
+  "advancements.touhou_little_maid.base.build_altar.title": "大工告成",
+  "advancements.touhou_little_maid.base.change_maid_model.title": "Cosplay！",
+  "advancements.touhou_little_maid.challenge.eat_enchanted_golden_apple.title": "好苹果",
+  "advancements.touhou_little_maid.maid_base.use_red_fox_scroll.title": "永不说再见",
+  "advancements.touhou_little_maid.maid_base.use_servant_bell.title": "永不放弃你",
+  "advancements.touhou_little_maid.maid_base.use_white_fox_scroll.title": "永不离弃你",
+  "tooltips.touhou_little_maid.servant_bell.uuid": "女仆 UUID：%s",
+  "tooltips.touhou_little_maid.tank_backpack.fluid": "%s：%d mB"
+}
