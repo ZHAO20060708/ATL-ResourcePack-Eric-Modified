@@ -1,5 +1,4 @@
 import os
-import time
 from pathlib import Path, PurePosixPath
 from tempfile import TemporaryDirectory
 
@@ -159,37 +158,6 @@ def main():
             if (managed or legacy) and remote_path.as_posix() not in desired_paths:
                 client.delete_file(project_id, remote_file["id"])
                 print(f"已清理 ParaTranz 旧分片：{remote_name}")
-
-        # 批量导入 CNPack 中的现有中文翻译
-        cnpack_dir = Path("CNPack")
-        print("\n================ 正在导入 CNPack 中的现有中文译文 ================")
-        refreshed_files = index_remote_files(client.get_files(project_id))
-        imported_count = 0
-        skipped_count = 0
-        for remote_name, remote_file in refreshed_files.items():
-            file_id = remote_file.get("id")
-            if not file_id:
-                continue
-            norm_name = remote_name.replace("\\", "/")
-            if "en_us.json" in norm_name:
-                zh_rel = norm_name.replace("en_us.json", "zh_cn.json")
-            elif "/en_us/" in norm_name:
-                zh_rel = norm_name.replace("/en_us/", "/zh_cn/")
-            else:
-                continue
-
-            zh_file = cnpack_dir / zh_rel
-            if zh_file.exists():
-                try:
-                    client.update_file_translation(project_id, file_id, zh_file, force=True)
-                    print(f"✓ 已导入译文：{norm_name} <- {zh_file}")
-                    imported_count += 1
-                    time.sleep(0.2)
-                except Exception as e:
-                    print(f"✗ 导入译文失败 {norm_name}: {e}")
-            else:
-                skipped_count += 1
-        print(f"================ 译文导入完毕：成功 {imported_count} 个，跳过 {skipped_count} 个 ================\n")
 
 
 if __name__ == "__main__":

@@ -132,15 +132,3 @@ class ParaTranzClient:
     def delete_file(self, project_id: int, file_id: int):
         endpoint = f"projects/{int(project_id)}/files/{int(file_id)}"
         return self._request("DELETE", endpoint)
-
-    def update_file_translation(
-        self, project_id: int, file_id: int, file_path: Path, force: bool = True
-    ):
-        endpoint = f"projects/{int(project_id)}/files/{int(file_id)}/translation"
-        with Path(file_path).open("rb") as translation_file:
-            return self._request(
-                "POST",
-                endpoint,
-                files={"file": (Path(file_path).name, translation_file)},
-                data={"force": "true" if force else "false"},
-            )
