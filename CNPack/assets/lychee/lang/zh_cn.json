@@ -53,5 +53,7 @@
   "tip.lychee.ingredient.air": "需要空手",
   "tip.lychee.ingredient.any": "允许任意物品",
   "tip.lychee.randomChance": "概率：%s × %s",
-  "tip.lychee.randomChance.one": "概率：%s"
+  "tip.lychee.randomChance.one": "概率：%s",
+  "modmenu.nameTranslation.lychee": "Lychee 配方调整器",
+  "postAction.lychee.set_block": "%s"
 }

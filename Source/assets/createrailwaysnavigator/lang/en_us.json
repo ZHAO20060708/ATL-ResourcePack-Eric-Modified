@@ -56,5 +56,6 @@
   "gui.createrailwaysnavigator.train_status.delay_previous_journey": "Delay in previous journey",
   "gui.createrailwaysnavigator.train_status.operational_disruption": "Operational disruption",
   "gui.createrailwaysnavigator.train_status.special_trip": "Special trip",
-  "gui.createrailwaysnavigator.train_status.track_closed": "Track closed"
+  "gui.createrailwaysnavigator.train_status.track_closed": "Track closed",
+  "createrailwaysnavigator.moin": "moin"
 }

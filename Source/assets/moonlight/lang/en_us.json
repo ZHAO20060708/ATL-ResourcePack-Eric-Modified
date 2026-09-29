@@ -102,5 +102,6 @@
   "tooltip.moonlight.media.partner_server": "Need a server? Get one with %s",
   "tooltip.moonlight.media.patreon": "Support me on Patreon :D",
   "tooltip.moonlight.media.twitter": "Twitter Page",
-  "tooltip.moonlight.media.youtube": "Youtube Channel"
+  "tooltip.moonlight.media.youtube": "Youtube Channel",
+  "leaves_type.ulterlands.souldrained": "Petrified"
 }

@@ -295,5 +295,9 @@
   "block_type.rechiseled.block_tiles": "%s Block Tiles",
   "block_type.rechiseled.block_tiles_connecting": "%s Block Tiles",
   "block_type.rechiseled.block_waxed": "%s Block Waxed",
-  "block_type.rechiseled.block_waxed_connecting": "%s Block Waxed"
+  "block_type.rechiseled.block_waxed_connecting": "%s Block Waxed",
+  "block_type.mcwbridges.bridge_pier": "%s Bridge Support",
+  "block_type.mcwwindows.four_window": "%s Four Window",
+  "block_type.mcwwindows.pane_window": "%s Pane Window",
+  "block_type.mcwwindows.shutter": "%s Shutter"
 }

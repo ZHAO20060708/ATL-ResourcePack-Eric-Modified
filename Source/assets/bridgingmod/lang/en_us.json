@@ -4,5 +4,6 @@
   "config.bridgingmod.option.minBridgeDistanceHorizontal": "Minimum Horizontal Distance",
   "config.bridgingmod.option.minBridgeDistanceHorizontal.description.0": "How far must a block be from you horizontally to be bridgable from.",
   "config.bridgingmod.option.minBridgeDistanceVertical": "Minimum Vertical Distance",
-  "config.bridgingmod.option.minBridgeDistanceVertical.description.0": "How far must a block be from you vertically to be bridgable from."
+  "config.bridgingmod.option.minBridgeDistanceVertical.description.0": "How far must a block be from you vertically to be bridgable from.",
+  "config.bridgingmod.value.percentage": "%1$.2f ％"
 }

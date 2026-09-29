@@ -53,5 +53,7 @@
   "tip.lychee.ingredient.air": "Requires empty hand",
   "tip.lychee.ingredient.any": "Allows any item",
   "tip.lychee.randomChance": "Chance: %s × %s",
-  "tip.lychee.randomChance.one": "Chance: %s"
+  "tip.lychee.randomChance.one": "Chance: %s",
+  "modmenu.nameTranslation.lychee": "Lychee Tweaker",
+  "postAction.lychee.set_block": "%s"
 }

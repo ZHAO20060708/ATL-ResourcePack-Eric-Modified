@@ -8,5 +8,6 @@
   "text.nowheel.overrideEntityCulling": "覆盖 Entity Culling 限制",
   "text.nowheel.overrideEntityCulling.tooltip": "覆盖 Entity Culling 的配置，以剔除默认情况下不会被剔除的动态结构。在特定场景下可提升性能。需要重启游戏。",
   "text.nowheel.tickCulling": "Tick 剔除",
-  "text.nowheel.tickCulling.tooltip": "跳过已被剔除的机械动力机器的客户端 tick。可提升性能。如果部分物体动画异常，请禁用此项。"
+  "text.nowheel.tickCulling.tooltip": "跳过已被剔除的机械动力机器的客户端 tick。可提升性能。如果部分物体动画异常，请禁用此项。",
+  "text.nowheel.title": "Nowheel 设置"
 }

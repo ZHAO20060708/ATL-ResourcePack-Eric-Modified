@@ -113,5 +113,10 @@
   "block_type.rechiseled.waves_stairs_connecting": "%s Waves Stairs",
   "stone_type.wetland_whimsy.limestone": "Lemonstone",
   "tooltip.stonezone.mud_type": "Mud Type: %s",
-  "tooltip.stonezone.stone_type": "Stone Type: %s"
+  "tooltip.stonezone.stone_type": "Stone Type: %s",
+  "block_type.buildersaddition.vertical_slab": "%s Vertical Slab",
+  "block_type.handcrafted.corner_trim": "%s Corner Trim",
+  "block_type.handcrafted.pillar_trim": "%s Pillar Trim",
+  "block_type.mcwbridges.bridge": "%s Bridge",
+  "block_type.waystones.waystone": "%s Waystone"
 }

@@ -152,5 +152,16 @@
   "travelerstitles.limbo.limbo_dim": "Limbo",
   "travelerstitles.man.halucination": "Hallucination",
   "travelerstitles.the_afterdark.afterdark": "Afterdark",
-  "travelerstitles.voidscape.void": "Voidscape"
+  "travelerstitles.voidscape.void": "Voidscape",
+  "biome.terralith.cave.crystal_caves": "Crystal Caves",
+  "biome.terralith.cave.deep_caves": "Deep Caves",
+  "biome.terralith.cave.infested_caves": "Infested Caves",
+  "biome.terralith.cave.underground_jungle": "Underground Jungle",
+  "biome.terralith.cave/deep_caves": "Deep Caves",
+  "biome.terralith.cave/underground_jungle": "Underground Jungle",
+  "biome.terralith.deep_warm_ocean": "Deep Warm Ocean",
+  "biome.terralith.desert_canyon": "Desert Canyon",
+  "biome.terralith.lush_desert": "Lush Desert",
+  "biome.terralith.snowy_cherry_grove": "Snowy Cherry Grove",
+  "biome.terralith.wintry_lowlands": "Wintry Lowlands"
 }

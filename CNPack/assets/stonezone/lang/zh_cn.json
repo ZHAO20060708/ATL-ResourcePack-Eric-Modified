@@ -113,5 +113,10 @@
   "block_type.rechiseled.waves_stairs_connecting": "波纹%s楼梯",
   "stone_type.wetland_whimsy.limestone": "柠檬石",
   "tooltip.stonezone.mud_type": "泥巴类型: %s",
-  "tooltip.stonezone.stone_type": "石材类型: %s"
+  "tooltip.stonezone.stone_type": "石材类型: %s",
+  "block_type.buildersaddition.vertical_slab": "%s竖直台阶",
+  "block_type.handcrafted.corner_trim": "%s檐饰",
+  "block_type.handcrafted.pillar_trim": "%s柱饰",
+  "block_type.mcwbridges.bridge": "%s桥梁",
+  "block_type.waystones.waystone": "%s传送石碑"
 }

@@ -152,5 +152,16 @@
   "travelerstitles.limbo.limbo_dim": "迷失之境",
   "travelerstitles.man.halucination": "幻觉",
   "travelerstitles.the_afterdark.afterdark": "晦暗之境",
-  "travelerstitles.voidscape.void": "虚空之境"
+  "travelerstitles.voidscape.void": "虚空之境",
+  "biome.terralith.cave.crystal_caves": "水晶洞穴",
+  "biome.terralith.cave.deep_caves": "深邃洞穴",
+  "biome.terralith.cave.infested_caves": "虫蚀洞穴",
+  "biome.terralith.cave.underground_jungle": "地下丛林",
+  "biome.terralith.cave/deep_caves": "深邃洞穴",
+  "biome.terralith.cave/underground_jungle": "地下丛林",
+  "biome.terralith.deep_warm_ocean": "暖水深海",
+  "biome.terralith.desert_canyon": "沙漠峡谷",
+  "biome.terralith.lush_desert": "繁茂沙漠",
+  "biome.terralith.snowy_cherry_grove": "积雪的樱花树林",
+  "biome.terralith.wintry_lowlands": "凛冬低地"
 }

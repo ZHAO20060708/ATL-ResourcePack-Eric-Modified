@@ -56,5 +56,6 @@
   "gui.createrailwaysnavigator.train_status.delay_previous_journey": "受前序行程延误影响",
   "gui.createrailwaysnavigator.train_status.operational_disruption": "运营中断",
   "gui.createrailwaysnavigator.train_status.special_trip": "临时专列",
-  "gui.createrailwaysnavigator.train_status.track_closed": "轨道封闭"
+  "gui.createrailwaysnavigator.train_status.track_closed": "轨道封闭",
+  "createrailwaysnavigator.moin": "你好"
 }

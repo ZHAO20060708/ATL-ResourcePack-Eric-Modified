@@ -8,5 +8,7 @@
   "gui.cfm_wap.status.energy": "无能量",
   "gui.cfm_wap.status.offline": "离线",
   "gui.cfm_wap.status.online": "在线",
-  "gui.cfm_wap.status.overloaded": "过载"
+  "gui.cfm_wap.status.overloaded": "过载",
+  "gui.cfm_wap.node_count": "%s / %s",
+  "gui.cfm_wap.progress": "%sFE / %sFE"
 }

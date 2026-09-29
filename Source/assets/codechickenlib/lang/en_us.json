@@ -14,5 +14,7 @@
   "ccl.fluid_tank.capacity": "Capacity:",
   "ccl.fluid_tank.contains": "Contains:",
   "ccl.fluid_tank.fluid_storage": "Fluid Storage",
-  "ccl.fluid_tank.stored": "Stored:"
+  "ccl.fluid_tank.stored": "Stored:",
+  "ccl.energy_bar.rf": "RF",
+  "ccl.fluid_tank.mb": "mB"
 }

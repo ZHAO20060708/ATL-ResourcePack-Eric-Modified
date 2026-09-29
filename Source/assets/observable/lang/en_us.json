@@ -30,5 +30,6 @@
   "text.observable.suggest_action": "Consider using Observable",
   "text.observable.unavailable": "Observable is not installed on the server",
   "text.observable.unimplemented": "Unimplemented!",
-  "text.observable.upload_failed": "Profile could not be uploaded"
+  "text.observable.upload_failed": "Profile could not be uploaded",
+  "category.observable.keybinds": "Observable"
 }

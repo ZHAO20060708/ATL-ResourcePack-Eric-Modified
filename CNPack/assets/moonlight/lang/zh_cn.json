@@ -102,5 +102,6 @@
   "tooltip.moonlight.media.partner_server": "需要服务器？使用 %s 租用一台",
   "tooltip.moonlight.media.patreon": "在 Patreon 上支持我 :D",
   "tooltip.moonlight.media.twitter": "Twitter 页面",
-  "tooltip.moonlight.media.youtube": "YouTube 频道"
+  "tooltip.moonlight.media.youtube": "YouTube 频道",
+  "leaves_type.ulterlands.souldrained": "石化"
 }

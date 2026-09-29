@@ -14,5 +14,7 @@
   "ccl.fluid_tank.capacity": "容量：",
   "ccl.fluid_tank.contains": "包含：",
   "ccl.fluid_tank.fluid_storage": "流体存储",
-  "ccl.fluid_tank.stored": "已存储："
+  "ccl.fluid_tank.stored": "已存储：",
+  "ccl.energy_bar.rf": "RF",
+  "ccl.fluid_tank.mb": "mB"
 }

@@ -7,5 +7,6 @@
   "config.solonion.trackedFoodDiversityDecay.comment": "The diversity an item contributes decreases when eating other stuff. If disabled the diversity will not drop until the food falls out of the tracked list.",
   "gui.solonion.food_book.active_detriments_header": "Active Detriments",
   "gui.solonion.food_book.inactive_detriments_header": "Inactive Detriments",
-  "gui.solonion.inventory.tooltip": "SOL Onion Stats\nDiversity: %s"
+  "gui.solonion.inventory.tooltip": "SOL Onion Stats\nDiversity: %s",
+  "gui.solonion.inventory.button": "SOL"
 }

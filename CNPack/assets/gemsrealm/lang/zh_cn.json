@@ -295,5 +295,9 @@
   "block_type.rechiseled.block_tiles": "%s瓦",
   "block_type.rechiseled.block_tiles_connecting": "%s瓦",
   "block_type.rechiseled.block_waxed": "涂蜡%s块",
-  "block_type.rechiseled.block_waxed_connecting": "涂蜡%s块"
+  "block_type.rechiseled.block_waxed_connecting": "涂蜡%s块",
+  "block_type.mcwbridges.bridge_pier": "%s桥梁支架",
+  "block_type.mcwwindows.four_window": "%s四格窗户",
+  "block_type.mcwwindows.pane_window": "%s嵌板窗户",
+  "block_type.mcwwindows.shutter": "%s窗扇"
 }

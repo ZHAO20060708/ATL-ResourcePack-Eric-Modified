@@ -8,5 +8,6 @@
   "text.nowheel.overrideEntityCulling": "Override Entity Culling limits",
   "text.nowheel.overrideEntityCulling.tooltip": "Override Entity Culling's config to cull contraptions that wouldn't get culled by default. Can improve performance in specific scenarios. Requires restart.",
   "text.nowheel.tickCulling": "Tick culling",
-  "text.nowheel.tickCulling.tooltip": "Skip the client tick of culled Create machines. Improves performance. Disable if some things are not animated properly."
+  "text.nowheel.tickCulling.tooltip": "Skip the client tick of culled Create machines. Improves performance. Disable if some things are not animated properly.",
+  "text.nowheel.title": "Nowheel"
 }

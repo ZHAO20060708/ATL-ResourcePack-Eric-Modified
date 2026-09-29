@@ -166,5 +166,7 @@
   "leaves_type.atlantis.atlantean": "Nymph",
   "wood_type.atlantis.atlantean": "Nymph",
   "wood_type.unusualprehistory.dryo": "Dryophyllum",
-  "wood_type.unusualprehistory.foxxi": "Foxii"
+  "wood_type.unusualprehistory.foxxi": "Foxii",
+  "car_variant.%s": "%s",
+  "wood_type.twilightforest.trans": "Transwood"
 }

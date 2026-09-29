@@ -23,5 +23,8 @@
   "config.jade.hide_from_tab_list_extra_msg": "tab,玩家列表",
   "config.jade.item_mod_name_extra_msg": "模组ID,modid",
   "config.jade.overlay_alpha_extra_msg": "透明度,alpha",
-  "config.jade.overlay_pos_extra_msg": "顶部,底部,左侧,右侧,居中,top,bottom,left,right,center"
+  "config.jade.overlay_pos_extra_msg": "顶部,底部,左侧,右侧,居中,top,bottom,left,right,center",
+  "jade.fluid.text": "%s：%s",
+  "jade.fluid.with_capacity": "%s / %s",
+  "jade.typeNameEntity": "%s（%s）"
 }

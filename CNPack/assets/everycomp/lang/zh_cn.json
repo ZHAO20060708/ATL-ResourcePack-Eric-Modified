@@ -166,5 +166,7 @@
   "leaves_type.atlantis.atlantean": "仙女木",
   "wood_type.atlantis.atlantean": "仙女木",
   "wood_type.unusualprehistory.dryo": "槲叶木",
-  "wood_type.unusualprehistory.foxxi": "古水杉木"
+  "wood_type.unusualprehistory.foxxi": "古水杉木",
+  "car_variant.%s": "%s",
+  "wood_type.twilightforest.trans": "变化木"
 }
