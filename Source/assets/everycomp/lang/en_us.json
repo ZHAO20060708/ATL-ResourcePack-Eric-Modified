@@ -168,5 +168,17 @@
   "wood_type.unusualprehistory.dryo": "Dryophyllum",
   "wood_type.unusualprehistory.foxxi": "Foxii",
   "car_variant.%s": "%s",
-  "wood_type.twilightforest.trans": "Transwood"
+  "wood_type.twilightforest.trans": "Transwood",
+  "wood_type.immortalers_delight.ancient_wood": "Ancient Wood",
+  "wood_type.immortalers_delight.himekaido": "Himekaido",
+  "wood_type.immortalers_delight.a_bush": "A'bush",
+  "wood_type.immortalers_delight.leisamboo": "Leisamboo",
+  "wood_type.immortalers_delight.pearlip_shell": "Pearlip Shell",
+  "wood_type.immortalers_delight.trava": "Trava",
+  "wood_type.dungeonsdelight.wormwood": "Wormwood",
+  "wood_type.trailandtales_delight.crystal_wood": "Crystal Wood",
+  "wood_type.spawn.rotten": "Rotten",
+  "wood_type.biomeswevegone.spirit": "Spirit",
+  "wood_type.tofucraft.leek": "Leek",
+  "wood_type.tofucraft.leek_green": "Green Leek"
 }
