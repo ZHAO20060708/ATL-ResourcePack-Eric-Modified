@@ -3,7 +3,7 @@
   "curios.identifier.crafting_on_a_stick": "便携工具",
   "gui.crafting_on_a_stick.prefix": "便携",
   "gui.crafting_on_a_stick.selection_wheel.no_tool": "未持有便携工具",
-  "gui.crafting_on_a_stick.suffix": "",
+  "gui.crafting_on_a_stick.suffix": " on a Stick",
   "item.crafting_on_a_stick.anvil": "%1$s%2$s%3$s",
   "item.crafting_on_a_stick.cartography_table": "%1$s%2$s%3$s",
   "item.crafting_on_a_stick.chipped_anvil": "%1$s%2$s%3$s",
